@@ -11,6 +11,7 @@ All members of the Wilson Lab are encouraged to:
 NOTE: Please avoid altering existing schematics (e.g., fonts, arrow styles, or colors). If you do make edits to an existing schematic and would like to share them with the lab, please upload as a separate file where the name reflects the contents to make browsing easy.
 
 ## Popular schematics
+<img width="6240" height="1513" alt="Asset 406" src="https://github.com/user-attachments/assets/391078fa-b189-47f5-be75-c31b79055ebc" />
 
 1. brain/brain_and_vnc: outline of CNS
 2. fly_side/topview: isolated fly
