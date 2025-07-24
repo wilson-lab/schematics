@@ -19,6 +19,8 @@ NOTE: Please avoid altering existing schematics (e.g., fonts, arrow styles, or c
 4. fly_parts_body/visceral: highlighted external/internal body parts
 5. fly_behavior_vignettes: series of fly actions (e.g., landing, eating, escaping, etc)
 
----
+## License
+All schematics in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-*Maintained by members of the Wilson Lab, Department of Neurobiology, Harvard Medical School.*
+You are welcome to download, use, and modify these materials — both within and outside the Wilson Lab — for academic and creative purposes.
+Please provide credit by including an attribution such as: "Schematic adapted from Wilson Lab"
