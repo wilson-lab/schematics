@@ -23,4 +23,4 @@ NOTE: Please avoid altering existing schematics (e.g., fonts, arrow styles, or c
 All schematics in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You are welcome to download, use, and modify these materials — both within and outside the Wilson Lab — for academic and creative purposes.
-Please provide credit by including an attribution such as: "Schematic adapted from Wilson Lab"
+We ask that you please provide credit by attributing this repository (e.g., "fly body schematic adapted from Wilson Lab") and/or the paper said material was found in (e.g., "fly VR schematic adapted from Collie et al. 2025).
